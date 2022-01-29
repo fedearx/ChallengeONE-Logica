@@ -47,10 +47,13 @@ body {
 .footer__copyright {
     font-weight: 300;
     font-size: 20px;
+    margin-top: 5px;
 }
 
 .footer__icons {
     margin-bottom: 10px;
+    margin-left: 10px;
+
 }
 
 .footer__img {
